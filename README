@@ -1,0 +1,11 @@
+Project Name:
+	Lang
+Author:
+	BacpFseC Rick
+Description :
+	Build a simple programming language with Scheme
+	The prototype takes 10 hrs.
+	The polish and debug takes 2 extra hrs.
+Comment:
+	This project is built with Racket (previously DrScheme)
+	Complete requirement and concise description are covered in PDFs.
